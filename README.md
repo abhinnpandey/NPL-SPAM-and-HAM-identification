@@ -19,3 +19,7 @@ This Repository contains a detailed analysis of SPAM Dataset
 
 NOTE: 
 This repositories dataset can be downloaded from [here](https://github.com/abhinnpandey/NPL-SPAM-and-HAM-identification/blob/master/SPAM%20and%20HAM%20Identification/spam.csv) 
+
+````
+To use it download it and copy .csv file in same folder as jupyter notebook 
+````
