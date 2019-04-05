@@ -10,7 +10,7 @@ The SMS Spam Collection is a set of SMS tagged messages that have been collected
 - **ML problem** : Text Analysis
 - **Algorithms**: Naive Bayes,Decision Tree Classifier,Random Forest Classifier,SVM.
 - **Technologies**: sklearn, nltk, WordCloud
-- **Data**: [IMDb review dataset](https://github.com/abhinnpandey/NPL-SPAM-and-HAM-identification/blob/master/SPAM%20and%20HAM%20Identification/spam.csv)  
+- **Data**: [SPAM dataset](https://github.com/abhinnpandey/NPL-SPAM-and-HAM-identification/blob/master/SPAM%20and%20HAM%20Identification/spam.csv)  
 - **Implementation**: Jupyter Notebook
 
 
