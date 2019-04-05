@@ -18,4 +18,4 @@ The SMS Spam Collection is a set of SMS tagged messages that have been collected
 This Repository contains a detailed analysis of SPAM Dataset
 
 NOTE: 
-This repositories dataset in zip format can be downloaded from [here](https://github.com/abhinnpandey/NPL-SPAM-and-HAM-identification/blob/master/SPAM%20and%20HAM%20Identification/spam.csv) 
+This repositories dataset can be downloaded from [here](https://github.com/abhinnpandey/NPL-SPAM-and-HAM-identification/blob/master/SPAM%20and%20HAM%20Identification/spam.csv) 
